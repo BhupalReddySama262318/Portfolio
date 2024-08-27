@@ -3,7 +3,7 @@
 <p>Welcome to my portfolio website! This README file will guide you through the setup, usage, and contribution process for the website.
 .</p>
 
-<h3><a href="https://bhupalreddysama262318.github.io/Portfolio/">Explore my Portfolio</a></h3><BR>
+<h3><a href="https://bhupalreddysama262318.github.io/Portfolio/" target="_blank">Explore my Portfolio</a></h3><BR>
 
 <h1>Table of Contents</h1>
 <ul>
@@ -36,7 +36,7 @@
 <h1>Installation</h1>
 <ol>
     <li>Clone the repository:<br>
-    <a href="https://github.com/BhupalReddySama262318/Portfolio.git">git clone https://github.com/BhupalReddySama262318/Portfolio.git</a></li>
+    git clone <a href="https://github.com/BhupalReddySama262318/Portfolio.git">https://github.com/BhupalReddySama262318/Portfolio.git</a></li>
     <li>Navigate to the project directory:<br>
     <code>cd Portfolio</code></li>
 </ol>
